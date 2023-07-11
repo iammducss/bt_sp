@@ -1952,8 +1952,8 @@
             </div>
         </div>
     </div>
-    <!-- script js -->
-    <script src="./assets/js/product.js"></script>
+
+    
 </body>
 
 </html>
